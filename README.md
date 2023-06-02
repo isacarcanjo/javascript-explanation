@@ -1,4 +1,4 @@
-## O que é Javascript ?
+## O que é Javascript 😎 ?
 É uma linguagem de alto nível, single thread e interpretada. Criado por Brendan Eich, com a ideia de facilitar o desenvolvimento WEB.
 - ### Memory heap    
     Memória prè alocada.
