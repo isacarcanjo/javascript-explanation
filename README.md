@@ -39,7 +39,7 @@ Ilustração:
 - ### Ignition
     È um interpretador que converte ``AST`` para ``bytecode``
 - ### Turbo FAN 
-    Compilador otimiza o código em tempo de execução e compilado para código de máquina.
+    Compilador otimiza o código em tempo de execução e compila para código de máquina.
 
 <br/>
 
