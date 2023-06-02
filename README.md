@@ -58,3 +58,5 @@ Ilustração:
 [Dev.to - _staticvoid](https://dev.to/_staticvoid/node-js-por-baixo-dos-panos-1-conhecendo-nossas-ferramentas-34b6)
 
 [Dev.to - lydiahallie](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+
+[Linkedin](https://www.linkedin.com/pulse/v8-engine-how-does-javascript-work-abdul-rasheed/)
