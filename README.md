@@ -50,3 +50,11 @@ Ilustração:
 ![https://www.geeksforgeeks.org/what-is-the-relationship-between-node-js-and-v8/](https://media.geeksforgeeks.org/wp-content/uploads/20211002235143/workinggfg.png)
 
 <sub>ref: geeksforgeeks</sub>
+
+
+#### Refs
+<br/>
+
+[Dev.to - _staticvoid](https://dev.to/_staticvoid/node-js-por-baixo-dos-panos-1-conhecendo-nossas-ferramentas-34b6)
+
+[Dev.to - lydiahallie](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
